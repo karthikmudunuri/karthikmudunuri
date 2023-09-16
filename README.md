@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karthikmudunuri
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning b.tech
+- 🌱 I’m currently persuing my b.tech
 - 💞️ I’m looking to collaborate on 1st april 2022
 - 📫 How to reach me by mailing me
 <!---
