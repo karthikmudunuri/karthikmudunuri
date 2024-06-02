@@ -2,17 +2,16 @@
 
 pursuing my B.tech in woxen university. I want to learn more about Front-end & Full Stack Development and i have a good command in `javascript`, `Next.js`, `react.js`, `HTML&CSS`. I believe in trying out new things and picking up challenges as it is always great to have knowledge in variety of subjects and have various experiences to share. im more interested in developing my weaknesses.
 
-`Email : karthikmudunuri999@gmail.com`
-`Phone number : +91 9179661999`
-`reach me in [https://karthikeyavarma.netlify.app]((https://karthikeyavarma.netlify.app))`
+- `Email : karthikmudunuri999@gmail.com`
+
+- `Phone number : +91 9179661999`
+
+- `reach me in [https://karthikeyavarma.netlify.app]((https://karthikeyavarma.netlify.app))`
 
 ## SKILLS
 
-| Technology                                    |
-|----------------|----------------|-------------|
-| Data Structures| Three.js       | Next.js     |
-| CSS            | TypeScript     | React.js    | 
-| HTML           | JavaScript     | Tailwind CSS |           
+
+` Data Structures`| `Three.js `| `Next.js `| `CSS `| `TypeScript`| `React.js`| `HTML `| `JavaScript`| `Tailwind CSS`           
 
 
 ## Projects
@@ -32,17 +31,14 @@ A Figma clone by using Next.js,Tailwind CSS,Typescript, Fabric.js & Liveblocks. 
 
 `website link : [https://figmaclonebykarthikeya.netlify.app/](https://figmaclonebykarthikeya.netlify.app/)
 
+## PROFESSIONAL EXPERIENCE
+
+## Articus solutions pvt ltd
+`__React JS Developer__`                                                                         
+> 01/2024 – present | Hyderabad, India 
+
+- Currently working on developing frontend application using React framework Next.js by using Tailwind CSS and Typescript.
+- Integrated RESTful APIs to provide seamless data retrieval and updates in real-time for dynamic web applications
+- Collaborated with designers and backend developers to integrate APIs and create data-driven features within the application
 
 
-
-
-
-
-
-
-
-
-- 👋 Hi, I’m @karthikmudunuri
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently persuing my b.tech
-- 📫 reach me in (https://karthikeyavarma.in/)
