@@ -1,4 +1,4 @@
-## Mudunuri Bhaskara Karthikeya Varma
+## Mudunuri Bhaskara Karthikeya Varma 
 
 pursuing my B.tech in woxen university. I want to learn more about Front-end & Full Stack Development and i have a good command in `javascript`, `Next.js`, `react.js`, `HTML&CSS`. I believe in trying out new things and picking up challenges as it is always great to have knowledge in variety of subjects and have various experiences to share. im more interested in developing my weaknesses.
 
@@ -24,10 +24,7 @@ __Website link : [https://eldoraui.vercel.app/](https://eldoraui.vercel.app/)__
 
 ## Figma clone
 
-A Figma clone by using Next.js,Tailwind CSS,Typescript, Fabric.js & Liveblocks. Some main Features
-`Features`
-👉 Multi Cursors, Cursor Chat, and Reactions: Allows multiple users to collaborate simultaneously by showing individual cursors, enabling real-time chat, and reactions for interactive communication.
-👉 Active Users: Displays a list of currently active users in the collaborative environment, providing visibility into who is currently engaged.
+> A Figma clone by using Next.js,Tailwind CSS,Typescript, Fabric.js & Liveblocks. Some main Features
 
 __website link : [https://figmaclonebykarthikeya.netlify.app/](https://figmaclonebykarthikeya.netlify.app/)__
 
