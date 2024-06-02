@@ -1,7 +1,7 @@
 ## Mudunuri Bhaskara Karthikeya Varma 
 
-> [!IMPORTANT]
-> Currently working on building UI library [Eldora UI](https://eldoraui.vercel.app/).
+> [!NOTE]
+> Explore my latest open-source project UI library [Eldora UI](https://eldoraui.vercel.app/).
 
 pursuing my B.tech in woxen university. I want to learn more about Front-end & Full Stack Development and i have a good command in `javascript`, `Next.js`, `react.js`, `HTML&CSS`. I believe in trying out new things and picking up challenges as it is always great to have knowledge in variety of subjects and have various experiences to share. im more interested in developing my weaknesses.
 
