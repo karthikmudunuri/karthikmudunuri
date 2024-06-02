@@ -6,7 +6,7 @@ pursuing my B.tech in woxen university. I want to learn more about Front-end & F
 
 - `Phone number : +91 9179661999`
 
-- `reach me in [https://karthikeyavarma.netlify.app]((https://karthikeyavarma.netlify.app))`
+- `reach me` in [https://karthikeyavarma.netlify.app]((https://karthikeyavarma.netlify.app))
 
 ## SKILLS
 
@@ -34,7 +34,7 @@ A Figma clone by using Next.js,Tailwind CSS,Typescript, Fabric.js & Liveblocks. 
 ## PROFESSIONAL EXPERIENCE
 
 ## Articus solutions pvt ltd
-`__React JS Developer__`                                                                         
+__`React JS Developer`__                                                                         
 > 01/2024 – present | Hyderabad, India 
 
 - Currently working on developing frontend application using React framework Next.js by using Tailwind CSS and Typescript.
