@@ -16,20 +16,20 @@ pursuing my B.tech in woxen university. I want to learn more about Front-end & F
 
 ## Projects
 
-### Eldora UI
+## Eldora UI
 
-Eldora UI is a collection of re-usable components that you can copy and paste into your web apps and its an [open-source project](https://github.com/karthikmudunuri/eldoraui). It primarily features components, blocks, and templates geared towards creating landing pages and user-facing marketing materials.
+> Eldora UI is a collection of re-usable components that you can copy and paste into your web apps and its an [open-source project](https://github.com/karthikmudunuri/eldoraui). It primarily features components, blocks, and templates geared towards creating landing pages and user-facing marketing materials.
 
-`Website link : [https://eldoraui.vercel.app/](https://eldoraui.vercel.app/)
+__Website link : [https://eldoraui.vercel.app/](https://eldoraui.vercel.app/)__
 
-### Figma clone
+## Figma clone
 
 A Figma clone by using Next.js,Tailwind CSS,Typescript, Fabric.js & Liveblocks. Some main Features
 `Features`
 👉 Multi Cursors, Cursor Chat, and Reactions: Allows multiple users to collaborate simultaneously by showing individual cursors, enabling real-time chat, and reactions for interactive communication.
 👉 Active Users: Displays a list of currently active users in the collaborative environment, providing visibility into who is currently engaged.
 
-`website link : [https://figmaclonebykarthikeya.netlify.app/](https://figmaclonebykarthikeya.netlify.app/)
+__website link : [https://figmaclonebykarthikeya.netlify.app/](https://figmaclonebykarthikeya.netlify.app/)__
 
 ## PROFESSIONAL EXPERIENCE
 
