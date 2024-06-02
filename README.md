@@ -11,7 +11,7 @@ pursuing my B.tech in woxen university. I want to learn more about Front-end & F
 ## SKILLS
 
 
-` Data Structures`| `Three.js `| `Next.js `| `CSS `| `TypeScript`| `React.js`| `HTML `| `JavaScript`| `Tailwind CSS`           
+`Data Structures` | `Three.js` | `Next.js` | `CSS` | `TypeScript` | `React.js` | `HTML` | `JavaScript` | `Tailwind CSS`           
 
 
 ## Projects
