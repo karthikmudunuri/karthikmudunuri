@@ -9,8 +9,8 @@ pursuing my B.tech in woxen university. I want to learn more about Front-end & F
 
 - `Phone number : +91 9179661999`
 
-- > [!IMPORTANT]
-  > __Reach me in [https://karthikeyavarma.netlify.app](https://karthikeyavarma.netlify.app)__
+ > [!IMPORTANT]
+ > __Reach me in [https://karthikeyavarma.netlify.app](https://karthikeyavarma.netlify.app)__
 
 ## SKILLS
 
