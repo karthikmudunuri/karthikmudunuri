@@ -1,7 +1,7 @@
 ## Mudunuri Bhaskara Karthikeya Varma 
 
 > [!NOTE]
-> Explore my latest open-source project UI library [Eldora UI](https://eldoraui.vercel.app/).
+> Explore my latest open-source project UI library [Eldora UI](https://www.eldoraui.site/).
 
 pursuing my B.tech in woxen university. I want to learn more about Front-end & Full Stack Development and i have a good command in `javascript`, `Next.js`, `react.js`, `HTML&CSS`. I believe in trying out new things and picking up challenges as it is always great to have knowledge in variety of subjects and have various experiences to share. im more interested in developing my weaknesses.
 
@@ -9,28 +9,18 @@ pursuing my B.tech in woxen university. I want to learn more about Front-end & F
 
 - `Phone number : +91 9179661999`
 
- > [!IMPORTANT]
- > __Reach me in [https://karthikeyavarma.netlify.app](https://karthikeyavarma.netlify.app)__
-
 ## SKILLS
-
 
 `Data Structures` | `Three.js` | `Next.js` | `CSS` | `TypeScript` | `React.js` | `HTML` | `JavaScript` | `Tailwind CSS`           
 
 
 ## Projects
 
-## Eldora UI
+## [Eldora UI](https://www.eldoraui.site/)
 
 > Eldora UI is a collection of re-usable components that you can copy and paste into your web apps and its an [open-source project](https://github.com/karthikmudunuri/eldoraui). It primarily features components, blocks, and templates geared towards creating landing pages and user-facing marketing materials.
 
-__Website link : [https://eldoraui.vercel.app/](https://eldoraui.vercel.app/)__
 
-## Figma clone
-
-> A Figma clone by using Next.js,Tailwind CSS,Typescript, Fabric.js & Liveblocks. Some main Features
-
-__website link : [https://figmaclonebykarthikeya.netlify.app/](https://figmaclonebykarthikeya.netlify.app/)__
 
 ## PROFESSIONAL EXPERIENCE
 
