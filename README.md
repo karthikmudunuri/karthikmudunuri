@@ -8,4 +8,4 @@
 
 ## My GitHub Stats
 
-<img  src="https://github-readme-stats.vercel.app/api?username=karthikmudunuri&count_private=true&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=karthikmudunuri&count_private=true&show_icons=true&theme=transparent" />
