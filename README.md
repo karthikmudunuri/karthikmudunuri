@@ -1,4 +1,6 @@
 ## Mudunuri Bhaskara Karthikeya Varma 
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karthikmudunuri)](https://github.com/karthikmudunuri/eldoraui)
         
 ## Projects
 
