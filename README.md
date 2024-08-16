@@ -35,7 +35,7 @@
 
 ## Contributions
 
-![snake gif](https://github.com/karthikmudunuri/karthikmudunuri/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/karthikmudunuri/karthikmudunuri/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 <div align="center">
@@ -45,4 +45,4 @@
 
 </div>
 
-Version 9.5
+Version 8.8
