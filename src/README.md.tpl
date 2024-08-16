@@ -1,6 +1,5 @@
 [![Linkedin: karthikmudunuri](https://img.shields.io/badge/-karthikmudunuri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthikmudunuri/)](https://www.linkedin.com/in/karthikmudunuri/)
 [![GitHub karthikmudunuri](https://img.shields.io/github/followers/karthikmudunuri?label=follow&style=social)](https://github.com/karthikmudunuri)
-
 ![GitHub User's stars](https://img.shields.io/github/stars/karthikmudunuri)
 ![GitHub forks](https://img.shields.io/github/forks/karthikmudunuri/eldoraui)
 
@@ -12,7 +11,7 @@
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikmudunuri&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
   </tr>
 </table>
-
+<div align="center">
 ## Technologies
 
 
@@ -34,8 +33,10 @@
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-black?style=flat-square&logo=amazonwebservices)
 
 
-<div align="center">
+
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=karthikmudunuri.karthikmudunuri)
+
 </div>
 
 Version %{{random}}%
