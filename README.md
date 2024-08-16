@@ -39,4 +39,4 @@
 
 </div>
 
-Version 1.3
+Version 4.2
