@@ -13,7 +13,7 @@
 
 
 
-## Tecnologies 🔥
+## Technologies 🔥
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -35,5 +35,4 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=karthikmudunuri.karthikmudunuri)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=karthikmudunuri.visitor-badge&left_text=Hello%20Visitors!)
