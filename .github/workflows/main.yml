@@ -1,0 +1,28 @@
+name: Update README.md
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  
+  schedule:
+    - cron: "0 9 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '16'
+    - run: npm install
+    - run: npm run update-readme
+    - run: |
+        git config user.name salteadorneo
+        git config user.email hola@salteadorneo.dev
+        git add README.md
+        git diff --quiet && git diff --staged --quiet || git commit -m "Test workflows"
+        git push origin main
