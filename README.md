@@ -11,7 +11,7 @@
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikmudunuri&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
   </tr>
 </table>
-<div align="center">
+
 ## Technologies
 
 
@@ -32,11 +32,11 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-black?style=flat-square&logo=amazonwebservices)
 
-
+<div align="center">
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=karthikmudunuri.karthikmudunuri)
 
 </div>
 
-Version 4.5
+Version 1.3
