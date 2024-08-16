@@ -21,8 +21,8 @@ jobs:
     - run: npm install
     - run: npm run update-readme
     - run: |
-        git config user.name salteadorneo
-        git config user.email hola@salteadorneo.dev
+        git config user.name karthikmudunuri
+        git config user.email karthikmudunuri999@gmail.com
         git add README.md
         git diff --quiet && git diff --staged --quiet || git commit -m "Test workflows"
         git push origin main
