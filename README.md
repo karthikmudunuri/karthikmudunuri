@@ -1,10 +1,17 @@
-## Social 👋
-
-
 [![Linkedin: karthikmudunuri](https://img.shields.io/badge/-karthikmudunuri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthikmudunuri/)](https://www.linkedin.com/in/karthikmudunuri/)
 [![GitHub karthikmudunuri](https://img.shields.io/github/followers/karthikmudunuri?label=follow&style=social)](https://github.com/karthikmudunuri)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=karthikmudunuri.karthikmudunuri)
 
-## Tecnologies 🔥
+<table cellpadding="0" border="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=karthikmudunuri&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikmudunuri&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
+  </tr>
+</table>
+
+## Technologies 🔥
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -27,10 +34,6 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=karthikmudunuri&count_private=true&show_icons=true&include_all_commits=true) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikmudunuri&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=karthikmudunuri.karthikmudunuri)
-
-Version 7.9
+Version 5.8
