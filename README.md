@@ -45,4 +45,4 @@
 
 </div>
 
-Version 7.6
+Version 6.7
