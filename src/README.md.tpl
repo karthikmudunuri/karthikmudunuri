@@ -45,4 +45,4 @@
 
 </div>
 
-Version %{{random}}%
+
