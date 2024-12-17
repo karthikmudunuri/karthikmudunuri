@@ -33,11 +33,6 @@
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-black?style=flat-square&logo=amazonwebservices)
 
 
-## Contributions
-
-![snake gif](https://github.com/karthikmudunuri/karthikmudunuri/blob/output/github-contribution-grid-snake-dark.svg)
-
-
 <div align="center">
 
 
