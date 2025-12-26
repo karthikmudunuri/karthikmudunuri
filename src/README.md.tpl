@@ -3,11 +3,4 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/karthikmudunuri)
 ![GitHub forks](https://img.shields.io/github/forks/karthikmudunuri/eldoraui)
 
-<div align="center">
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=karthikmudunuri.karthikmudunuri)
-
-</div>
-
 
